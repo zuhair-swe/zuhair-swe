@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zuhair Hussain</h1>
-<h3 align="center">A passionate Full Stack developer from Pakistan</h3>
+<h3 align="center">Passionate Full Stack Developer with a strong interest in creating dynamic and responsive web applications. I enjoy solving real-world problems using the MERN stack and continuously improving my skills through hands-on projects.</h3>
+
 
 - 🌱 I’m currently learning **Web Development**
 
